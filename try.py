@@ -1,3 +1,2 @@
 import numpy as np
-
-print("Lab III")
+import matplotlib.pyplot as plt
